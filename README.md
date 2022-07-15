@@ -1,2 +1,2 @@
 # Friday 
-hey, this is the first branch of Friday
+hey, this is the morning branch of Friday
